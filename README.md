@@ -21,8 +21,8 @@ The Leaflet challenge requires to create a visualization map of USGS earthquake 
  <li>index.html - Front-end page. </li> 
  <li>README.md - This document. </li> 
 
- <li>Leaflet-Step-1 / css style.cs - Style for web page. </li>
- <li>Leaflet-Step-1 / js - logic.js - javascript artifact. </li>
+ <li>Leaflet-Step-1 / css / style.cs - Style for web page. </li>
+ <li>Leaflet-Step-1 / js / logic.js - javascript artifact. </li>
  </ul>
 
  
